@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Sowndarya Porfolio</title>
+    <style>
+        body {
+            font-family : Arial,sans-serif;
+            background-color : lightgray;
+        }
+        .card{
+            background-color: white;
+            width : 500px;
+            padding : 20px;
+            margin : 50px auto;
+            border : 2px solid black;
+            border-radius: 15px;
+
+            box-shadow: 0px 0px 10px gray;
+        }
+        h1{
+            color : blue;
+            text-align: center;
+        }
+        h2{
+            color : green;
+        }
+        .profession{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="card"> 
+        <h1> 
+            Sowndarya
+        </h1>
+        <p class="profession">Python developer | Fresher</p>
+        <hr>
+        <h2> Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>HTML</li>
+        <li>SQL</li>
+        <li>CSS</li>
+        <li>Flask</li>
+    </ul>
+    <h2>Contact</h2>
+    <p>Email : sowndaryaraj128@gmail.com</p>
+    <p>Phone number : 9876543210</p>
+    <h2>Projects</h2>
+    <ul>
+        <li>Health management system</li>
+        <li>Portfolio Website</li>
+    </ul>
+    </div>
+
+    
+</body>
+
+</html>
